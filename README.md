@@ -27,7 +27,7 @@
 - 🤖 Familiar with **machine learning** concepts and applying data-driven approaches to solve practical problems
 - 💡 Strong problem-solving mindset with the ability to work with large datasets and optimize performance
 - 🌱 Quick learner with excellent adaptability, teamwork, and communication skills
-- 🚀 **Actively seeking** opportunities to apply technical expertise and build a strong career in **Data Analytics**
+- 🚀 **Actively seeking** opportunities in **Data Analytics**
 
 ---
 
@@ -52,8 +52,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -67,7 +65,7 @@
 |------------|----------------|---------------|---------|
 | **Book RAG Platform** | AI-powered book intelligence platform with RAG-based question answering | Django, React, Python, Vector Search | [GitHub](https://github.com/akank275/book-rag-platform) |
 | **Movie Recommendation System** | ML-based system that recommends movies based on user preferences | Python, Scikit-learn, Pandas | [GitHub](https://github.com/akank275/movie-recommendation-system) |
-| **Network Scanner Mini Project** | Implements Ping, ARP, and Nmap scanners in Python to analyze network devices | Python, Networking | [GitHub](https://github.com/akank275/network-scanner-mini-project) |
+| **Network Scanner** | Implements Ping, ARP, and Nmap scanners to analyze network devices | Python, Networking | [GitHub](https://github.com/akank275/network-scanner-mini-project) |
 | **Procedure Documentation Tool** | Automated procedure documentation tool for technical workflows | Python | [GitHub](https://github.com/akank275/procedure-documentation-tool) |
 | **Foundation Ethical Hacking** | Ethical hacking foundations project | C | [GitHub](https://github.com/akank275/Foundation-Ethical-Hacking) |
 
@@ -83,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akank275&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akank275&theme=tokyonight&hide_border=false&layout=compact" />
 </p>
 
 ---
@@ -119,6 +117,7 @@
 <p align="center">
   <i>✨ "Data is the new oil — let's refine it together!" ✨</i>
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
