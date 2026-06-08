@@ -62,21 +62,26 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 
 ## 📊 GitHub Statistics
 
-<!-- Replace with your actual stats card URLs -->
-![Akanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akank275&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akank275&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akank275&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akank275&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=akank275&theme=tokyonight&no-frame=true&row=1&column=6)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akank275&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/akank275/akank275/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akank275/akank275/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -101,4 +106,5 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 > *"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akank275&color=7F77DD&style=flat)
+
 
