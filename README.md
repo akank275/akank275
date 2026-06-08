@@ -63,8 +63,16 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akank275&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akank275&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akank275&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akank275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akank275&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=akank275&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
@@ -77,10 +85,29 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 
 ---
 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="http://www.linkedin.com/in/akanksha-kumari-sinha-204575286">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://salary-prediction-app-bp2f6flbexuobnzqt9llyc.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+  <a href="mailto:sinhaakankshakumari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/akank275">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akank275/akank275/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/akank275/akank275/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -95,16 +122,11 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 
 ---
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/akanksha-kumari-sinha-204575286)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=flat&logo=web&logoColor=white)](https://your-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sinhaakankshakumari@gmail.com)
-
----
-
 > *"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
-![Profile Views](https://komarev.com/ghpvc/?username=akank275&color=7F77DD&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akank275&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
 
 
