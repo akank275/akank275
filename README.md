@@ -118,7 +118,7 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 - 🐍 **Python Developer** — Data-focused roles
 - 🤖 **ML Engineer** — Entry-level / Internship
 - 📍 Bengaluru (on-site / hybrid) or Remote
-- 📅 Available from mid-2026
+- 📅 Immediately Available
 
 ---
 
