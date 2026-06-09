@@ -14,6 +14,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhaakankshakumari@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=akank275&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-C084FC?style=for-the-badge&logo=github&logoColor=white)
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-🟢%20Available-1D9E75?style=for-the-badge)
 
 </div>
 
@@ -32,6 +34,48 @@ akanksha = {
     "⚡ fun_fact"    : "I turn messy CSVs into clean insights 📊"
 }
 ```
+
+---
+
+## 🎯 What I Bring to the Table
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 📊 Data Analyst
+![](https://img.shields.io/badge/-My_Strength-7F77DD?style=flat-square)
+
+- Clean & wrangle messy real-world datasets using **Pandas & SQL**
+- Build EDA reports that surface actionable business insights
+- Create clear dashboards in **Power BI & Seaborn**
+- Comfortable with 100K+ row datasets end-to-end
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🐍 Python Developer
+![](https://img.shields.io/badge/-My_Strength-C084FC?style=flat-square)
+
+- Write clean, structured Python for data pipelines & automation
+- Build & deploy interactive web apps using **Streamlit**
+- REST API integration & scripting for data workflows
+- Strong with **NumPy, Pandas, Matplotlib** ecosystem
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🤖 ML Engineer
+![](https://img.shields.io/badge/-My_Strength-F472B6?style=flat-square)
+
+- End-to-end ML pipelines from raw data to deployed model
+- Hands-on with **Scikit-learn** — regression, classification, NLP
+- Feature engineering, model evaluation & hyperparameter tuning
+- Shipped a **live ML app** on Streamlit Cloud
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -222,26 +266,6 @@ Custom single-page portfolio with glassmorphism design, animated skill bars, liv
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akank275&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/akank275/akank275/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 📌 Open To Work
 
 <div align="center">
@@ -261,6 +285,16 @@ Custom single-page portfolio with glassmorphism design, animated skill bars, liv
 
 ---
 
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD,C084FC,F472B6&height=100&section=footer" width="100%"/>
@@ -268,4 +302,5 @@ Custom single-page portfolio with glassmorphism design, animated skill bars, liv
 *"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
 </div>
+
 
