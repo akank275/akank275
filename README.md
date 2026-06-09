@@ -14,8 +14,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhaakankshakumari@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=akank275&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
-![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-C084FC?style=for-the-badge&logo=github&logoColor=white)
-![Open To Work](https://img.shields.io/badge/Open%20To%20Work-🟢%20Available-1D9E75?style=for-the-badge)
+<img src="https://img.shields.io/badge/Last%20Updated-June%202026-C084FC?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20To%20Work-Available%20%F0%9F%9F%A2-1D9E75?style=for-the-badge" />
 
 </div>
 
@@ -302,5 +302,6 @@ Custom single-page portfolio with glassmorphism design, animated skill bars, liv
 *"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
 </div>
+
 
 
