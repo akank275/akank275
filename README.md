@@ -1,33 +1,44 @@
-# Hi there, I'm Akanksha Kumari Sinha 👋
+<div align="center">
 
-### 🎯 Data Analyst · Python · SQL · Power BI · Machine Learning
+# Hey, I'm Akanksha Kumari Sinha 👋
 
-Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering College, Bengaluru · VTU · CGPA 8.0
+### Data Analyst · Python Developer · ML Enthusiast
+
+*Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering College, Bengaluru · VTU · CGPA 8.0*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/akanksha-kumari-sinha-204575286)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=firefox&logoColor=white)](https://akanksha-portfolio1.netlify.app/)
+[![Streamlit App](https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://salary-prediction-app-bp2f6flbexuobnzqt9llyc.streamlit.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhaakankshakumari@gmail.com)
+
+</div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-- 🎓 Computer Science & Data Science Engineering, graduating 2026
-- 📊 Hands-on with data cleaning, EDA, and building ML models end-to-end
-- 🚀 Deployed a live ML app on Streamlit — check the featured projects below
-- 🌱 Currently exploring NLP and advanced feature engineering techniques
-- 💬 Ask me about **Python, Pandas, Scikit-learn, Power BI, or SQL**
-- 🎯 Open to Data Analyst / ML Engineer fresher roles in Bengaluru
+I'm a final-year CS + Data Science student who loves turning raw, messy data into something actually useful. Over the past year I've built end-to-end ML pipelines, shipped a live Streamlit app, and completed internships in both Machine Learning and Full Stack Development.
+
+- 🎓 Graduating 2026 · CGPA 8.0 · AMC Engineering College, Bengaluru (VTU)
+- 🚀 Built & deployed a live salary prediction ML app on Streamlit
+- 📊 Worked on projects spanning EDA, content-based recommendation systems, and predictive modelling
+- 🏢 2 internship experiences — ML at Cognifyz Technologies & Full Stack at SaiKet Systems
+- 🌱 Currently exploring NLP and building a Sales & Profit Analysis dashboard
+- 🎯 Actively looking for **Data Analyst / Python Developer / ML Engineer** fresher roles in Bengaluru
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Core**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-**Data & ML**
+**Data & Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -37,12 +48,12 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Tools & Databases**
+**Databases & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -50,17 +61,72 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 
 ## 🚀 Featured Projects
 
-| 🗂️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
-|---|---|---|---|
-| 💰 **Salary Prediction App** | End-to-end ML app predicting salary based on experience, role & skills. Live on Streamlit. | Python, Scikit-learn, Streamlit | [🔴 Live Demo](https://salary-prediction-app-bp2f6flbexuobnzqt9llyc.streamlit.app/) · [GitHub](https://github.com/akank275/salary-prediction-app) |
-| 🎬 **Movie Recommendation System** | Content-based filtering using TF-IDF & cosine similarity to recommend movies by preference. | Python, Pandas, Scikit-learn | [GitHub](https://github.com/akank275/movie-recommendation-system) |
-| 📊 **Sales & Profit Analysis** | EDA on retail sales data — trends, profit margins, and regional insights using Python. | Python, Pandas, Matplotlib, Seaborn | [GitHub](https://github.com/akank275/sales-profit-analysis) |
+### 💰 Salary Prediction App — *Live on Streamlit*
+> Predicts expected salary based on experience, job role, and skills using a trained ML model.
 
-> ⭐ If you find my work useful, please star the repositories!
+- Cleaned and processed a dataset of **5,000+ job records** using Pandas
+- Trained a **Random Forest Regressor** achieving ~88% R² score on test data
+- Deployed as an interactive web app with real-time predictions on Streamlit Cloud
+- **Stack:** Python · Scikit-learn · Pandas · Streamlit
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://salary-prediction-app-bp2f6flbexuobnzqt9llyc.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/akank275/salary-prediction-app)
 
 ---
 
-## 📊 GitHub Statistics
+### 🎬 Movie Recommendation System
+> Content-based recommendation engine that suggests similar movies based on user preference.
+
+- Processed metadata for **10,000+ movies** from the TMDB dataset
+- Built a TF-IDF vectorizer + cosine similarity model to find top-N most relevant matches
+- Achieved meaningful recommendations with fast query response time
+- **Stack:** Python · Pandas · Scikit-learn · NLTK
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/akank275/movie-recommendation-system)
+
+---
+
+### 📊 Sales & Profit Analysis *(In Progress)*
+> Exploratory data analysis on retail sales data to uncover trends, profit drivers, and regional performance.
+
+- Analysing **100,000+ transaction records** across product categories and regions
+- Identifying profit margin patterns, seasonal trends, and underperforming segments
+- Final output: an interactive visual dashboard with actionable business insights
+- **Stack:** Python · Pandas · Matplotlib · Seaborn · Power BI
+
+[![GitHub](https://img.shields.io/badge/GitHub_-_Coming_Soon-555555?style=flat&logo=github&logoColor=white)](#)
+
+---
+
+## 💼 Experience
+
+**Machine Learning Intern · Cognifyz Technologies**
+`Remote · 2024`
+- Applied supervised ML models for classification and prediction tasks using Scikit-learn
+- Performed EDA and feature engineering on real-world datasets using Pandas and Matplotlib
+- Documented findings and model evaluation metrics for internal review
+
+**Full Stack Development Intern · SaiKet Systems**
+`Bengaluru · 2024`
+- Built responsive frontend interfaces using HTML, CSS, and JavaScript
+- Worked with backend APIs and assisted in database management using MySQL
+- Collaborated with the dev team following Agile workflow practices
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Data Analytics Essentials | IBM |
+| Data Analysis with Python | IBM |
+| Security+ (CompTIA path) | CompTIA |
+| Data Analytics & Visualisation | Tata / Forage |
+| Various Data & Python courses | LinkedIn Learning |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akank275&theme=tokyonight" width="100%"/>
@@ -85,25 +151,6 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="http://www.linkedin.com/in/akanksha-kumari-sinha-204575286">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://salary-prediction-app-bp2f6flbexuobnzqt9llyc.streamlit.app/">
-    <img src="https://img.shields.io/badge/Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </a>
-  <a href="mailto:sinhaakankshakumari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/akank275">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -114,19 +161,21 @@ Final-year B.E. Computer Science & Data Science Engineering · AMC Engineering C
 
 ## 📌 What I'm Looking For
 
-- 💼 **Data Analyst** — Fresher / Entry-Level role
-- 🐍 **Python Developer** — Data-focused roles
-- 🤖 **ML Engineer** — Entry-level / Internship
-- 📍 Bengaluru (on-site / hybrid) or Remote
-- 📅 Immediately Available
+| Role | Type | Location |
+|---|---|---|
+| Data Analyst | Fresher / Entry-Level | Bengaluru (on-site / hybrid) or Remote |
+| Python Developer | Data-focused | Bengaluru (on-site / hybrid) or Remote |
+| ML Engineer | Entry-Level / Internship | Bengaluru (on-site / hybrid) or Remote |
+
+📅 **Available immediately**
 
 ---
 
-> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akank275&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+*"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
+![Profile Views](https://komarev.com/ghpvc/?username=akank275&color=7F77DD&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
 
