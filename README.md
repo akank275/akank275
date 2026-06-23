@@ -34,14 +34,6 @@ akanksha = {
     "⚡ fun_fact"    : "I turn messy CSVs into clean insights 📊"
 }
 ```
-</td>
-<td width="40%" align="center">
-
-<img src="[https://raw.githubusercontent.com/yashraj-hp/codeSnippets/main/giphy.gif" width="280](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activity/Person%20Coding.gif)"/>
-
-</td>
-</tr>
-</table>
 ---
 
 ## 🎯 What I Bring to the Table
