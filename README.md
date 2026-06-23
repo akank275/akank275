@@ -37,7 +37,6 @@ akanksha = {
 <p align="center">
   <img src="retro_pixel_coder_setup.svg" width="400">
 </p>
----
 
 ## 🎯 What I Bring to the Table
 
